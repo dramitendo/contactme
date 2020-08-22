@@ -87,3 +87,12 @@ img#logo{
             }
 
             
+
+#header-wrapper{
+   top: 0;
+   left: 0;
+   height: auto;
+   position: absolute;
+   width: 100%;
+}
+
